@@ -1,3 +1,4 @@
+Esta aplicacion esta hecha en React usando hooks para mostrar gifs animados
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
